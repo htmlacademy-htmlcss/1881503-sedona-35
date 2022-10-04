@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Kirill Gryaznov](https://up.htmlacademy.ru/htmlcss/35/user/1881503).
-* Наставник: `Неизвестно`.
+* Наставник: [Alexey Tolstonog](https://htmlacademy.ru/profile/id620625).
 
 ---
 
